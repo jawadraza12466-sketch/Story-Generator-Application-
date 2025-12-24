@@ -1,0 +1,5 @@
+{
+  "name": "DreamWeaver Story AI",
+  "description": "An advanced AI storytelling assistant that weaves unique tales based on your chosen genre, characters, and language using Gemini 3.",
+  "requestFramePermissions": []
+}
